@@ -1,0 +1,10 @@
+[package]
+name = "ratatui_counter"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# a terminal user interface library
+ratatui = "0.30.2"
+# a cross-platform terminal library
+crossterm = "0.29.0"
